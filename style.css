@@ -310,6 +310,7 @@ body {
 /*-------------------STYLES-----MOBILE FIRST---PAGES MENUS-------------------------*/
 .__header-fleche {
   font-size: 1.5rem;
+  color: black;
 }
 
 .__header-titre-logo {

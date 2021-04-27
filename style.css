@@ -6,8 +6,8 @@
 body {
   font-family: "Roboto", "Sans-serif";
   font-size: 16px;
-  /* background-color: #eeeded; */
-  background-color: red;
+  background-color: #eeeded;
+  
 }
 
 .__main-boby {
@@ -144,19 +144,19 @@ body {
 
 /* Restaurant */
 .img1-back, .img2-back, .img3-back, .img4-back {
-  background-image: url("../images/img1.jpg");
+  background-image: url("images/img1.jpg");
 }
 
 .img2-back, .img3-back, .img4-back {
-  background-image: url("../images/img3.jpg");
+  background-image: url("images/img3.jpg");
 }
 
 .img3-back, .img4-back {
-  background-image: url("../images/img4.jpg");
+  background-image: url("images/img4.jpg");
 }
 
 .img4-back {
-  background-image: url("../images/img2.jpg");
+  background-image: url("images/img2.jpg");
 }
 
 .img1-back, .img2-back, .img3-back, .img4-back {
@@ -331,28 +331,28 @@ body {
 }
 
 .img-palette-bak {
-  background-image: url("../images/img1.jpg");
+  background-image: url("images/img1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 50vw;
 }
 
 .img-lanote {
-  background-image: url("../images/img3.jpg");
+  background-image: url("images/img3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 50vw;
 }
 
 .img-francaise {
-  background-image: url("../images/img4.jpg");
+  background-image: url("images/img4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 50vw;
 }
 
 .img-delice {
-  background-image: url("../images/img2.jpg");
+  background-image: url("images/img2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 50vw;

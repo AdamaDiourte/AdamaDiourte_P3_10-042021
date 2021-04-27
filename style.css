@@ -970,7 +970,6 @@ body {
     cursor: pointer;
     z-index: 1;
     opacity: 1;
-    transition: translate;
     animation: anim-div-menu 5s;
   }
 

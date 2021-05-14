@@ -256,7 +256,6 @@
 	font-size:1.5rem
 }
 
-
 .sect-fonct-accueil__btn .__div__icone--modif1
 {
 	color:#9356dc
@@ -308,74 +307,7 @@
 	object-position: 50% 100% ;
 }
 
-/* img,.img-lapalette,.img-lanote,
-.img-lafracaise,
-.img-delice 
-{
-	width: 100%;
-	height: 190px;
-	object-fit: cover;
-	object-position: 100% 100% ;
-	
-	border-radius:20px 20px 0 0;
-} */
 
-
-/* 
-.img-lapalette,
-.img-lanote,
-.img-lafracaise,
-.img-delice{
-	width: 100%;
-	height: 350px;
-	object-fit: cover;
-	
-	object-position: 0% 50% ;
-	border-radius:20px 20px 0 0;
-} */
-
-
-/* .img-lapalette
-{
-	background-image:url("images/lapalette.jpg");
-	
-}
-.img-lanote
-{
-	background-image:url("images/lanote.jpg")
-}
-.img-delice
-{
-	background-image:url("images/delice.jpg")
-}
-.img-lafracaise
-{
-	background-image:url("images/lafrancaise.jpg")
-} */
-
-/* .img-lanote
-{
-	background:url("images/lanote.jpg");
-	background-repeat:no-repeat;
-	background-size:cover;
-	object-fit: cover;
-	object-position: 10% 60% ;
-} */
-
-.img-lapalette,.img-lanote,.img-lafracaise,.img-delice
-{
-	/* background-repeat:no-repeat;
-	background-size:cover;
-	height:190px;
-	object-position: 100% 10%;
-	border-radius:30px 30px 0 0; */
-
-	/* width: 339.81px;
-	height: 300px;
-	object-fit: cover;
-	object-position: 100% 80%;
-	border-radius:30px 30px 0 0 */
-}
 .sect-restau-accueil
 {
 	padding:.6rem
@@ -572,8 +504,6 @@
 	list-style-type:none;
 	background-color:#fff;
 	padding: 0.5rem 0.5rem 0.5rem 1rem;
-
-
 }
 
 .div-logo-iconce-fleche :nth-child(2)
@@ -637,40 +567,12 @@ padding-left: 1rem;
 	object-position: 50% 60% ;
 
 }
-/* .img-menu-palette{
-	background-image:url("images/lapalette.jpg");
-	background-repeat:no-repeat;
-	background-size:cover;
-	height:50vw
-} */
 
-/* .img-menu-lanote
-{
-	background-image:url("images/lanote.jpg");
-	background-repeat:no-repeat;
-	background-size:cover;
-	height:50vw
-}
-.img-menu-francaise
-{
-	background-image:url("images/lafrancaise.jpg");
-	background-repeat:no-repeat;
-	background-size:cover;
-	height:60vw
-}
-.img-menu-delice
-{
-	background-image:url("images/delice.jpg");
-	background-repeat:no-repeat;
-	background-size:cover;
-	height:50vw
-} */
 .__div__restau-nom-icone-page-menu>h2
 {
 	font-family:"Shrikhand","Roboto","Sans-serif";
 	font-size:1.6rem;
 }
-
 
 .tous-sect
 {
@@ -703,9 +605,7 @@ padding-left: 1rem;
 	box-shadow:3px 4px 4px #bebebe;
 	cursor:pointer;
 	height: 80px;
-	
 }
-
 
 
 .__div-titre
@@ -1131,8 +1031,6 @@ padding-left: 1rem;
 	font-size:1rem
 }
 
-
-
 .__div__restau-nom-icone>h2
 {
 	font-size:1.4rem
@@ -1183,10 +1081,7 @@ padding-left: 1rem;
 
 	@media screen and (min-width: 540px)
 {
-	/* li a.__lien-retour-accueil
-{
-	display:none
-} */
+
 .prez-entreprise-text-2
 {
 	font-size:1.5rem
@@ -1215,10 +1110,7 @@ padding-left: 1rem;
 	object-position: 50% 55% ;
 	max-height: 250px;
 }
-	/* .img-lapalette,.img-lanote,.img-lafracaise,.img-delice
-{
-	height: 270px;
-} */
+
 
 .__sect-titre, .__div-menu{
 	width: 450px;
@@ -1667,10 +1559,6 @@ flex-grow: 4;
 	width: 20%;
 	max-width: 265px;
 }
-
-
-
-
 
 }
 
